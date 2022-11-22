@@ -17,7 +17,7 @@ public static void main(String[] args) {
 	GitHub obj=new GitHub();
 	obj.test1();
 	System.out.println("This is Rahul Landge");
-		System.out.println("This is updated code");
+		System.out.println("code update");
 
 }
 }
